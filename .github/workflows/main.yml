@@ -1,10 +1,11 @@
 name: Waka Readme
 
 on:
-  workflow_dispatch: # for manual workflow trigger
+  # for manual workflow trigger
+  workflow_dispatch:
   schedule:
     - cron: '0 */12 * * *' # runs at every 12AM UTC
-    
+
 jobs:
   update-readme:
     name: WakaReadme DevMetrics
@@ -13,7 +14,22 @@ jobs:
       - uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          ### meta
+          API_BASE_URL: https://wakatime.com/api
+          ### content
           SHOW_TITLE: true
+          SECTION_NAME: waka
           BLOCKS: ⣀⣄⣤⣦⣶⣷⣿
           SHOW_TIME: true
+          SHOW_TOTAL: true
           SHOW_MASKED_TIME: true
+          STOP_AT_OTHER: true
+          IGNORED_LANGUAGES: YAML JSON TOML
+          ### commit
+          COMMIT_MESSAGE: Updated waka-readme graph with new metrics
+          TARGET_BRANCH: master
+          TARGET_PATH: README.md
+          COMMITTER_NAME: GitHubActionBot 
+          COMMITTER_EMAIL: action-bot@github.com 
+          AUTHOR_NAME: Awwal Bankole 
+          AUTHOR_EMAIL: awwalbankole@gmail.com
