@@ -27,4 +27,20 @@
 
 <!--START_SECTION:waka-->
 
+```rust
+From: 20 June 2022 - To: 02 December 2023
+
+Total Time: 255 hrs 32 mins
+
+JavaScript   169 hrs 56 mins >>>>>>>>>>>>>>>>>--------   66.37 %
+TypeScript   40 hrs 37 mins  >>>>---------------------   15.86 %
+CSS          13 hrs 39 mins  >------------------------   05.34 %
+Python       6 hrs 37 mins   >------------------------   02.59 %
+HTML         6 hrs 35 mins   >------------------------   02.58 %
+Vue.js       6 hrs 10 mins   >------------------------   02.41 %
+Bash         1 hr 47 mins    -------------------------   00.70 %
+Markdown     52 mins         -------------------------   00.34 %
+Git Config   45 mins         -------------------------   00.30 %
+```
+
 <!--END_SECTION:waka-->
