@@ -25,3 +25,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lawybanx&" alt="lawybanx" /></p>
 
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
