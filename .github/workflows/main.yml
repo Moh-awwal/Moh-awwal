@@ -26,10 +26,10 @@ jobs:
           STOP_AT_OTHER: true
           IGNORED_LANGUAGES: YAML JSON TOML
           ### commit
-          COMMIT_MESSAGE: Updated waka-readme graph with new metrics
-          TARGET_BRANCH: master
-          TARGET_PATH: README.md
-          COMMITTER_NAME: GitHubActionBot 
-          COMMITTER_EMAIL: action-bot@github.com 
-          AUTHOR_NAME: Awwal Bankole 
-          AUTHOR_EMAIL: awwalbankole@gmail.com
+          ##COMMIT_MESSAGE: Updated waka-readme graph with new metrics
+          ##TARGET_BRANCH: master
+          ##TARGET_PATH: README.md
+          ##COMMITTER_NAME: GitHubActionBot 
+          ##COMMITTER_EMAIL: action-bot@github.com 
+          ##AUTHOR_NAME: Awwal Bankole 
+          ##AUTHOR_EMAIL: awwalbankole@gmail.com
