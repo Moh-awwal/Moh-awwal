@@ -3,7 +3,7 @@
 ## 🚀 About Me
 I am a frontend developer on an exciting journey of learning and growth. I have a solid foundation in technologies like React, Next.js, MongoDB, Node.js, Express.js, Python, and TypeScript. My coding journey is fueled by a genuine passion for creating user-friendly interfaces and exploring the vast world of web development. While I may be in the early stages of my career, my dedication to mastering new skills and tackling challenges head-on is unwavering. I'm eager to contribute my energy and fresh perspectives to collaborative projects. Let's build and learn together!
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lawybanx&label=Profile%20views&color=0e75b6&style=flat" alt="lawybanx" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Moh-awwal&label=Profile%20views&color=0e75b6&style=flat" alt="Moh-awwal" /> </p>
 
 ## 🛠️ Skills & Tools
 <!-- Add your skills and tools as badges/icons -->
@@ -45,9 +45,9 @@ I am a frontend developer on an exciting journey of learning and growth. I have 
 <a href="https://linkedin.com/in/awwal bankole" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="awwal bankole" height="30" width="40" /></a>
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lawybanx&show_icons=true&locale=en" alt="lawybanx" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Moh-awwal&show_icons=true&locale=en" alt="Moh-awwal" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lawybanx&" alt="lawybanx" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Moh-awwal&" alt="Moh-awwal" /></p>
 
 <!--START_SECTION:waka-->
 
