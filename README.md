@@ -52,11 +52,11 @@ I am a frontend developer on an exciting journey of learning and growth. I have 
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 December 2025 - To: 31 December 2025
+From: 25 December 2025 - To: 01 January 2026
 
-Total Time: 1 hr 39 mins
+Total Time: 1 hr 28 mins
 
-TypeScript   1 hr 28 mins    ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀   88.25 %
+TypeScript   1 hr 28 mins    ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 %
 ```
 
 <!--END_SECTION:waka-->
